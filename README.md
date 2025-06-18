@@ -1,2 +1,12 @@
 ## Sales Trends Dashboard in Excel
-Designed and developed a Sales Trend dashboard using e-commerce website sales data to identify key patterns and insights; performed calculations for static and dynamic views and utilized appropriate chart types and visualization tools in Excel.
+   
+   
+   
+   
+
+
+Created Different insights of data in different tabs such as 'Revenue and ARO Trend', 'Impressions and Conversions' , 'Citywise Distribution' and 'Calculation'.
+
+Calculated both Static and Dynamic calculations 
+   
+Created Dashboard using different chart type and slicer and other visualization options available in Excel.
