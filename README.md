@@ -1,4 +1,4 @@
-## Sales Trends Dashboard in Excel (E-commerce)
+## Sales Trends Dashboard in Excel (E-commerce) 🛒
    
    
    
